@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="lib/mysql-connector-java-8.0.11.jar;C:\Users\Mamadou\.p2\pool\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Users\Mamadou\.p2\pool\plugins\org.hamcrest.core_1.3.0.v201303031735.jar" destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="sn.objis.livraison3.presentation,sn.objis.livraison3.domaine,sn.objis.livraison3.dao,sn.objis.livraison3.service,sn.objis.livraison3.utils" source="9" sourcepath="src;test" splitindex="true" use="true" version="true">
+            <link href="http://hamcrest.org/JavaHamcrest/javadoc/1.3/"/>
+            <link href="file:/C:/developpement/workpace2/livraison3/doc/"/>
+            <link href="http://junit.org/junit4/javadoc/latest/"/>
+            <link href="https://docs.oracle.com/javase/9/docs/api/"/>
+        </javadoc>
+    </target>
+</project>

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"sn.objis.livraison3.dao"},{"l":"sn.objis.livraison3.domaine"},{"l":"sn.objis.livraison3.presentation"},{"l":"sn.objis.livraison3.service"},{"l":"sn.objis.livraison3.utils"}]
