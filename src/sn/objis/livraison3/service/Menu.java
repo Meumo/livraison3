@@ -18,7 +18,7 @@ public class Menu {
 		System.out.println("------------------------------------------------------------------\n");
 		System.out.println("1.Gestion Medecin");
 		System.out.println("2.Gestion Patient");
-		System.out.println("3.Gestion Sécrétaire");
+		System.out.println("3.Gestion Secretaire");
 		System.out.println("4.Quitter\n");
 
 		System.out.println("Faites votre choix(1/2/3/4)");
